@@ -1,2 +1,2 @@
 # bookbot
-This is for the bookbot project.
+BookBot is my first git project!
